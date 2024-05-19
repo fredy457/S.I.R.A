@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sira_dba",
+    "password": "Password100",
+    "database": "sira_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sira_dba",
+    "password": "Password100" ,
+    "database": "sira_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sira_dba",
+    "password": "Password100",
+    "database": "sira_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
